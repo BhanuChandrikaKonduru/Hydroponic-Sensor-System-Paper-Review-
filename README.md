@@ -14,7 +14,7 @@ This project presents a detailed review of recent research on sensor-based hydro
 The main outcomes of this study were consolidated into a LaTeX-based technical presentation.  
 A downloadable version is provided below:
 
-- [`hydroponics_presentation.pdf`](./presentation/hydroponics_presentation.pdf)
+- [`hydroponics_presentation.pdf`](sensors.pdf)
 
 ## Tools and Technologies
 
@@ -22,19 +22,19 @@ A downloadable version is provided below:
 - Research review of IEEE and open-access papers
 - Focus on practical smart agriculture sensor integration
 
-## Reviewed Topics
+## References
 
-- SmartGrow architecture and calibration strategies
-- Sensor placement and wireless data transmission
-- Nutrient solution management using feedback systems
-- Sustainability and scalability of hydroponic automation
+The following papers were reviewed and analyzed for this study:
+
+- SMART GROW – Low-cost automated hydroponic system for urban farming  
+- Internet of Things-Based Smart Precision Farming in Soilless Agriculture
+
+
+
 
 ## Timeline
 
 March 2025 – May 2025  
 Conducted as part of a course requirement on emerging technologies in agriculture.
 
-## Author
 
-Konduru Bhanu Chandrika  
-Electrical Engineering, IIT Palakkad
